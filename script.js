@@ -2,7 +2,6 @@ var typed = new Typed('#typed', {
     strings: [
         'An IT Technician', 
         'A Full Stack Developer', 
-        'An Automation Specialist', 
         'A (Future) System Administrator',
         'A Computer Repair Technician',
     ],
